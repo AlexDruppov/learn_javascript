@@ -7,3 +7,5 @@ if (nameOfJavaScript == 'ECMAScript') {
 } else {
     alert('Не знаете? ECMAScript');
 }
+
+))))
